@@ -1,0 +1,2 @@
+This is the data. Feel free to change the contents.
+If you add a line and save, for example, it will cause all connected clients to get the new data.
